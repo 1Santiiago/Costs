@@ -17,7 +17,7 @@ const NavBar = () => {
             </li>
 
             <li className={styles.item}>
-              <Link to="/projects">Meus Projetos</Link>
+              <Link to="/projects">Projetos</Link>
             </li>
          
             <li className={styles.item}>
